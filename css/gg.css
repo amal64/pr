@@ -1,0 +1,14 @@
+body{color:white; background: url("../images/rr.jpg" ) ;background-repeat: no-repeat;
+     height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+ul a{padding:13px 16px;color:sandybrown;}
+footer{background-color: black;}
